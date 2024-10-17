@@ -24,7 +24,7 @@ class AppTheme {
           color: Colors.black,
         ),
         displayMedium: TextStyle(
-          fontSize: 19,
+          fontSize: 22,
           fontWeight: FontWeight.w500,
           color: Colors.black,
         ),
